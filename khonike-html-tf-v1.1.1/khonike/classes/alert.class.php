@@ -5,6 +5,7 @@ class Alert extends Dbh {
     // ALERTS MODEL
 
     // GETTERS
+    // hello world
 
     // Get all Alerts
     protected function getAllAlerts() {
